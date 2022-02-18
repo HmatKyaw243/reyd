@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+}
+body{
+    height: 100vh;
+    margin: 0 auto;
+    font-family: sans-serif;
+    background-image: url("istockphoto-1138288758-612x612.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;                                                                       
+}
+
+p, textarea {
+    font-size: 20px;
+}
+
+textarea{
+    width: 40%;
+    padding: 10px;
+}
+#playAgain{
+    display: none;
+}
